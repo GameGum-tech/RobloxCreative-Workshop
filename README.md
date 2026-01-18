@@ -19,7 +19,7 @@ Robloxのアカウントや、Roblox Studioのじゅんびが  ちゃんとで�
 【アカウントの作り方（保護者向け）】
 [https://qiita.com/TaisukeAndo/private/b1eed59a1b8d677d155c](https://qiita.com/TaisukeAndo/private/b1eed59a1b8d677d155c)
 
-## 3. Roblox Studioのつかいかた（かんたん）
+## 3. Roblox Studioのつかいかた
 つぎに、Roblox Studioのつかいかたを、かんたんにせつめいします。
 
 - がめんの見かた
@@ -29,14 +29,14 @@ Robloxのアカウントや、Roblox Studioのじゅんびが  ちゃんとで�
 【RobloxStudioの使い方】
 [https://github.com/GameGum-tech/RobloxCreative-Workshop/tree/main/start_up_guide](start_up_guide/README.md)
 
-## 4. アスレチックゲームの作りかた（かんたん）
+## 4. アスレチックゲームの作りかた
 今回は、**アスレチックゲーム** を作ります。
 
 - たかいところを作る
 - ジャンプする足ばを作る
 - ゴールを作る
 
-## 5. ゲームを作ってみよう（作るじかん）
+## 5. ゲームを作ってみよう
 ここまでで、だいたい **30分** です。  
 のこりのじかんは、じっさいにゲームを作ります。
 
